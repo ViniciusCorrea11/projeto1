@@ -1,5 +1,5 @@
 body{
-    background-color: #7fd4e3;
+    background-color: #d89640;
 }
 h2{
     margin-left: 800px;
@@ -12,7 +12,7 @@ h2{
 
 .box {
     width: 80%;
-    background: linear-gradient(to left, #79dfe6, #65a5a9, #7fc7e3);
+    background: linear-gradient(to left, #e6b779, #a98c65, #e3b87f);
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
