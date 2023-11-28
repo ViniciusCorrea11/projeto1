@@ -1,0 +1,28 @@
+body{
+    background-color: #7fd4e3;
+}
+h2{
+    margin-left: 800px;
+}
+
+.letra{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.box {
+    width: 80%;
+    background: linear-gradient(to left, #79dfe6, #65a5a9, #7fc7e3);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 20px;
+    max-width:1000px;
+    position: relative;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+}
+img{
+    width:  500px;
+}
